@@ -1,7 +1,7 @@
 {
   "name": "ui-vue-boilerplate",
   "version": "1.0.0",
-  "description": "An augmented table tennis experience",
+  "description": "A basic starting point for a client-side Vue.js application with Vuex & Routing",
   "author": "Todd Beauchamp <toddbee@gmail.com>",
   "private": true,
   "scripts": {
